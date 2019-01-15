@@ -9,5 +9,3 @@
 ## UI changes
 
 <!-- Screenshots -->
-
-N/A
